@@ -9,5 +9,6 @@ public class Main {
         System.out.println("innych");
         System.out.println("takich");
         System.out.println("rzeczy");
+
     }
 }
